@@ -10,7 +10,8 @@ async def create_pg_pool(dsn, password, user):
         password=password,
         user=user,
         init=init,
-        min_size=10
+        min_size=10,
+        max_size=15
     )
     return pool
 

@@ -1,0 +1,53 @@
+{
+  "_comment": "digits in vk property is an id of faculty in mpeix database",
+  "vk": {
+    "6": {
+      "meta": "pb_ivti",
+      "id": "-20292342"
+    },
+    "3": {
+      "meta": "pb_ievt",
+      "id": "-30822608"
+    },
+    "8": {
+      "meta": "pb_igvie",
+      "id": "-173506585"
+    },
+    "1": {
+      "meta": "pb_enmi",
+      "id": "-68015505"
+    },
+    "4": {
+      "meta": "pb_iete",
+      "id": "-29827"
+    },
+    "9": {
+      "meta": "pb_inei",
+      "id": "-155432198"
+    },
+    "2": {
+      "meta": "pb_itae",
+      "id": "-13484429"
+    },
+    "5": {
+      "meta": "pb_iee",
+      "id": "-26267273"
+    },
+    "7": {
+      "meta": "pb_ire",
+      "id": "-49962319"
+    },
+    "pb_gpi": {
+      "meta": "pb_gpi",
+      "id": "-13365015"
+    },
+    "profcom_mpei": {
+      "meta": "profcom_mpei",
+      "id": "-48031545"
+    },
+    "studsovet_mpei": {
+      "meta": "studsover_mpei",
+      "id": "-141542081"
+    }
+  }
+}
